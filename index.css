@@ -19,9 +19,11 @@ h3 {
   background-color: rgb(111, 233, 192);
   padding: 10px 10px 0 0;
   height: 730px;
+  border-radius: 5px;
 }
 .suphead {
   background-color: rgb(111, 233, 192);
+  border-radius: 5px;
 }
 
 .icon {
@@ -37,4 +39,9 @@ h3 {
   background-color: aliceblue;
   margin: 20px 0;
   padding: 30px 5px;
+}
+
+h5 {
+  text-transform: uppercase;
+  font-weight: bold;
 }
