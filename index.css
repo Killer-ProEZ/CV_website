@@ -16,12 +16,12 @@ h3 {
 }
 
 .skill {
-  background-color: aquamarine;
+  background-color: rgb(111, 233, 192);
   padding: 10px 10px 0 0;
-  height: 700px;
+  height: 730px;
 }
 .suphead {
-  background-color: aquamarine;
+  background-color: rgb(111, 233, 192);
 }
 
 .icon {
@@ -31,4 +31,10 @@ h3 {
 
 .supcontent {
   padding-left: 20px;
+}
+.fame {
+  width: 70% !important;
+  background-color: aliceblue;
+  margin: 20px 0;
+  padding: 30px 5px;
 }
