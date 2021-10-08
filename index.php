@@ -18,10 +18,11 @@
             <div class="col-sm-5">
                 <div class="text-center">
                     <img class="img-fluid avatar" src="image/Avatar.jpg" alt="">
-                    <php>
-                        <h3>Tran Phuoc Hao</h3>
-                    </php>
+                    <h3>Tran Phuoc Hao</h3>
                     <h5>Developer</h5>
+                    <?php
+                    echo "<h2>PHP is Fun!</h2>";
+                    ?>
                 </div>
                 <div class="skill">
                     <div class="content">
