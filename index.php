@@ -21,7 +21,7 @@
                     <h3>Tran Phuoc Hao</h3>
                     <h5>Developer</h5>
                     <?php
-                    echo "<h2>PHP is Fun!</h2>";
+                    echo "<h4>PHP is Fun!</h4>";
                     ?>
                 </div>
                 <div class="skill">
